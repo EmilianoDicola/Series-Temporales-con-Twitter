@@ -1,2 +1,2 @@
 # Series-Temporales-con-Twitter
-Experimentos realizados sobre series temporales con Auto_Arima, Prophet y Pycaret con una base de datos de Tweets geolocalizados en Río Cuarto (Argentina), realizados para el trabajo de tesis
+Experimentos realizados sobre series temporales con Auto_Arima, Prophet y Pycaret con una base de datos de Tweets geolocalizados en Río Cuarto (Argentina), realizados para el trabajo de tesis. Los experimentos fueron realizados en Colab y comentados para aquellos que le interese el tema. También están a disposición los datos para poder correr el código y continuar probando. 
